@@ -7,3 +7,4 @@ You can also change the hashtag here - search_click.send_keys('#nature')     (Li
 save the file and run.
 instagram limits are met in the code.
 do not forget that the application does not run in the background mode, so do not touch anything while the program is running.
+ 
